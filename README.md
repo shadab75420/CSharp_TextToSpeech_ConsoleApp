@@ -42,7 +42,7 @@ The program takes text input from the user and converts it into spoken audio usi
 ## Sample Output
 
 Enter text: Hello world
-(Speech output: "Hello world")
+Speech output: "Hello world"
 
 ---
 
